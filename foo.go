@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func Foo() {
-	fmt.Println("Foo() feature")
+	fmt.Println("Foo() other feature")
 }
